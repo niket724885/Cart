@@ -1,0 +1,79 @@
+[
+    {
+      "id": 1,
+      "name": "Brocolli - 1 Kg",
+      "price": 120,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/broccoli.jpg",
+      "category": "vegetables"
+    },
+    {
+      "id": 2,
+      "name": "Cauliflower - 1 Kg",
+      "price": 60,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/cauliflower.jpg",
+      "category": "vegetables"
+    },
+    {
+      "id": 3,
+      "name": "Cucumber - 1 Kg",
+      "price": 48,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/cucumber.jpg",
+      "category": "vegetables"
+    },
+    {
+      "id": 15,
+      "name": "Apple - 1 Kg",
+      "price": 72,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/apple.jpg",
+      "category": "fruits"
+    },
+    {
+      "id": 16,
+      "name": "Banana - 1 Kg",
+      "price": 45,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/banana.jpg",
+      "category": "fruits"
+    },
+    {
+      "id": 17,
+      "name": "Grapes - 1 Kg",
+      "price": 60,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/grapes.jpg",
+      "category": "fruits"
+    },
+    {
+      "id": 26,
+      "name": "Almonds - 1/4 Kg",
+      "price": 200,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/almonds.jpg",
+      "category": "nuts"
+    },
+    {
+      "id": 27,
+      "name": "Pista - 1/4 Kg",
+      "price": 190,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pista.jpg",
+      "category": "nuts"
+    },
+    {
+      "id": 28,
+      "name": "Nuts Mixture - 1 Kg",
+      "price": 950,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/nuts-mixture.jpg",
+      "category": "nuts"
+    },
+    {
+      "id": 29,
+      "name": "Cashews - 1 Kg",
+      "price": 650,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/cashews.jpg",
+      "category": "nuts"
+    },
+    {
+      "id": 30,
+      "name": "Walnuts - 1/4 Kg",
+      "price": 170,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
+      "category": "nuts"
+    }
+  ]
